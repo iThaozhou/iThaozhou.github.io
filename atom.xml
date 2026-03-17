@@ -10,7 +10,23 @@
   <rights>All rights reserved 2026, ZhouHao</rights>
   <subtitle>心有所向，无问东西</subtitle>
   <title>Hao</title>
-  <updated>2026-03-12T13:31:25.965Z</updated>
+  <updated>2026-03-17T11:45:05.975Z</updated>
+  <entry>
+    <author>
+      <name>ZhouHao</name>
+    </author>
+    <category term="�����¼" scheme="https://ithaozhou.github.io/categories/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%C2%BC/"/>
+    <category term="����" scheme="https://ithaozhou.github.io/tags/%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD/"/>
+    <category term="���" scheme="https://ithaozhou.github.io/tags/%EF%BF%BD%EF%BF%BD%EF%BF%BD/"/>
+    <id>https://ithaozhou.github.io/2026/03/17/hello-world/</id>
+    <link href="https://ithaozhou.github.io/2026/03/17/hello-world/"/>
+    <published>2026-03-16T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="��������ָ��"><a href="#��������ָ��" class="headerlink" title="?? ��������ָ��"></a>?? ��������ָ��</h1><p>������һ��д���˼�����顣���ָ�ϰ��]]>
+    </summary>
+    <title>��������ָ��</title>
+    <updated>2026-03-17T11:45:05.975Z</updated>
+  </entry>
   <entry>
     <author>
       <name>ZhouHao</name>
@@ -20,18 +36,5 @@
     <published>2026-03-12T13:31:25.000Z</published>
     <title>我的第一篇文章</title>
     <updated>2026-03-12T13:31:25.965Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>ZhouHao</name>
-    </author>
-    <id>https://ithaozhou.github.io/2026/03/11/hello-world/</id>
-    <link href="https://ithaozhou.github.io/2026/03/11/hello-world/"/>
-    <published>2026-03-11T12:00:08.633Z</published>
-    <summary>
-      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for]]>
-    </summary>
-    <title>Hello World</title>
-    <updated>2026-03-11T11:58:34.356Z</updated>
   </entry>
 </feed>
